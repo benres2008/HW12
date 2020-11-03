@@ -1,4 +1,6 @@
-use burgers_db;
+CREATE database burgers_db1;
+
+use burgers_db1;
 
   create table burgers_tbl(
     id int primary key auto_increment,

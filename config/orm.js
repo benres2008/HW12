@@ -21,6 +21,6 @@ var orm = {
       cb(result);
     });
   }
-}//end of object
+}
 
 module.exports = orm;
